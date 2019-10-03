@@ -1,0 +1,16 @@
+accuracy: 0.0015128593040847202
+precision_micro: 0.0015128593040847202
+precision_macro: 0.15
+recall_micro: 0.0015128593040847202
+recall_macro: 0.0005836575875486381
+f1_micro: 0.0015128593040847202
+f1_macro: 0.0011627906976744186
+             precision    recall  f1-score   support
+
+   negative       0.60      0.00      0.00      1285
+     neural       0.00      0.00      0.00         0
+    neutral       0.00      0.00      0.00       548
+   positive       0.00      0.00      0.00       150
+
+avg / total       0.39      0.00      0.00      1983
+
